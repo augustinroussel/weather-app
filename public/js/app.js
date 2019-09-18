@@ -1,6 +1,3 @@
-console.log('Client Side JavaScript loaded')
-
-
 const $weatherForm = document.querySelector('body')
 const $forecast = document.querySelector('#forecast')
 
